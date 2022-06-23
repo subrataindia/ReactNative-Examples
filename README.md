@@ -7,5 +7,6 @@
 - [Bottom tab with drawer navigation](https://github.com/subratsir/ReactNative-Examples/blob/main/examples/bottom-tab-with-drawer-navigation.md)
 - [Nesting Navigator](https://github.com/subratsir/ReactNative-Examples/blob/main/examples/nesting-navigators.md)
 - [Linking in React Native](https://github.com/subratsir/ReactNative-Examples/blob/main/examples/react-native-linking.md)
+- [dynamic deep Links](https://www.youtube.com/watch?v=YT841IVQvSc)
 - 
 
