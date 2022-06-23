@@ -1,6 +1,8 @@
 # Linking in React Native
 
-in AndroidManifest.xml made the following changes
+in AndroidManifest.xml made the following changes to declare [package visibility needs](https://developer.android.com/training/package-visibility/declaring) .
+
+If you wish to receive the intent in an existing instance of MainActivity, you may set the launchMode of MainActivity to singleTask in AndroidManifest.xml.
 
 ```java
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
