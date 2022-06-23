@@ -30,28 +30,18 @@ in AndroidManifest.xml made the following changes
     // Upto here
     
     <application
-      android:name=".MainApplication"
-      android:label="@string/app_name"
-      android:icon="@mipmap/ic_launcher"
-      android:roundIcon="@mipmap/ic_launcher_round"
-      android:allowBackup="false"
-      android:theme="@style/AppTheme">
+      ...
       <activity
         android:name=".MainActivity"
-        android:label="@string/app_name"
-        android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
         android:launchMode="singleTask" // check for this line also
-        android:windowSoftInputMode="adjustResize"
-        android:exported="true">
+        ...
         <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
+          ...
         </intent-filter>
       </activity>
     </application>
 </manifest>
 ```
-
 
 ```js
 import React, { useCallback } from "react";
