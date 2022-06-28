@@ -3,6 +3,8 @@ import * as React from 'react';
 import { Button, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
+// React Navigation 6.x
+// import { createNativeStackNavigator } from '@react-navigation/native-stack'; 
 
 function HomeScreen({ navigation }) {
   return (
@@ -48,6 +50,8 @@ function SettingsScreen({ navigation }) {
 }
 
 const Stack = createStackNavigator();
+// React Navigation 6.x
+// const Stack = createNativeStackNavigator();
 
 function MyStack() {
   return (
