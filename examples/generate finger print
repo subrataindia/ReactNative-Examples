@@ -1,0 +1,16 @@
+# Generate Finger Print of Android Release Key
+
+## Debug Key
+
+go to android/app folder
+
+```
+keytool -list -v -alias androiddebugkey -keystore debug.keystore
+```
+
+## Release Key
+
+```
+keytool -list -v -alias <your-key-name> -keystore <path-to-production-keystore>
+```
+
