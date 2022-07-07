@@ -18,3 +18,6 @@
 - [Execution failed for task ':react-native-screens:compileDebugKotlin'](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/Execution%20failed%20for%20task%20':react-native-screens:compileDebugKotlin.md)
 - [Unable to resolve dependency tree](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/unable-to-resolve-dependency-tree.md)
 
+# Facts
+
+- [How to run reactnative debug app on physical android device through wifi]
