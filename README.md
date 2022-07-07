@@ -20,4 +20,4 @@
 
 # Facts
 
-- [How to run reactnative debug app on physical android device through wifi]
+- [How to run reactnative debug app on physical android device through wifi](https://github.com/subratsir/ReactNative-Examples/blob/main/examples/how-to-run-on-physial-device-through-wifi.md)
