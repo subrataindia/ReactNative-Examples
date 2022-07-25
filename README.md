@@ -18,6 +18,7 @@
 - [Execution failed for task ':react-native-screens:compileDebugKotlin'](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/Execution%20failed%20for%20task%20':react-native-screens:compileDebugKotlin.md)
 - [Unable to resolve dependency tree](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/unable-to-resolve-dependency-tree.md)
 - [cannot find symbol ViewManagerResolver - react native reanimated](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/cannot%20find%20symbol%20ViewManagerResolver.md)
+- [Manifest merge failed - android 12 error](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/Manifest%20merger%20failed%20-%20android%2012%20error.md)
 
 # Facts
 
