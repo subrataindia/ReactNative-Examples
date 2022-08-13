@@ -23,3 +23,6 @@
 # Facts
 
 - [How to run reactnative debug app on physical android device through wifi](https://github.com/subratsir/ReactNative-Examples/blob/main/examples/how-to-run-on-physial-device-through-wifi.md)
+
+
+- [React Native private storage](https://stackoverflow.com/questions/53479538/how-to-download-image-files-in-internal-apps-private-storage-react-native)
