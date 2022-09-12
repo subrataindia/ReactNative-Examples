@@ -6,3 +6,6 @@ in localstorage.js
 
 instead of :
 
+
+To know your error please look at the log file. Read 10 to 12 lines before error.
+
