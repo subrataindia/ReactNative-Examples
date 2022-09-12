@@ -20,6 +20,8 @@
 - [cannot find symbol ViewManagerResolver - react native reanimated](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/cannot%20find%20symbol%20ViewManagerResolver.md)
 - [Manifest merge failed - android 12 error](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/Manifest%20merger%20failed%20-%20android%2012%20error.md)
 - [axios-requests-is-not-working-in-react-native-released-apk-in-android](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/axios-requests-is-not-working-in-react-native-released-apk-in-android.md)
+- IOS error : Command phasescript execution failed with a nonzero exitcode.
+
 # Facts
 
 - [How to run reactnative debug app on physical android device through wifi](https://github.com/subratsir/ReactNative-Examples/blob/main/examples/how-to-run-on-physial-device-through-wifi.md)
