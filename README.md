@@ -21,6 +21,7 @@
 - [Manifest merge failed - android 12 error](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/Manifest%20merger%20failed%20-%20android%2012%20error.md)
 - [axios-requests-is-not-working-in-react-native-released-apk-in-android](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/axios-requests-is-not-working-in-react-native-released-apk-in-android.md)
 - [IOS error : Command phasescript execution failed with a nonzero exitcode.](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/iOS-filled-with-nonzero-exitcode.md)
+- [Could not initialize class org.codehaus.groovy.runtime.InvokerHelper](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/err2.md)
 
 # Facts
 
