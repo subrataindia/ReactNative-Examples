@@ -43,5 +43,25 @@ If your app targets Android 12 or higher, you must declare these attribution tag
 
 To using and testing Android 12 API, developer must update app's Android SDK. If you are using Android Studio (or other IDE) please set your Target API 31.
 
+### SDK install
+
+- Go to the menu on Tools > SDK Manager on Android Studio.
+- On SDK Platforms  select Android 12.
+- On SDK Tools tap select Android SDK Build-Tools 31.
+- Click the OK button to install the SDK.
+- Go to the build.gradle on Apps folder and update following script.
+
+```
+android {
+    compileSdkVersion 31
+
+    defaultConfig {
+        targetSdkVersion 31
+    }
+}
+```
+
+
+
 
 
