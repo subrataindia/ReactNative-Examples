@@ -38,3 +38,10 @@ If your app targets Android 12 or higher, you must declare these attribution tag
 
 [Read this for detailed documentation](https://developer.android.com/about/versions/12/behavior-changes-12#foreground-service-launch-restrictions)
 
+
+## Update Android 12 SDK 
+
+To using and testing Android 12 API, developer must update app's Android SDK. If you are using Android Studio (or other IDE) please set your Target API 31.
+
+
+
