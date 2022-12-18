@@ -30,6 +30,8 @@
 
 - [React Native private storage](https://stackoverflow.com/questions/53479538/how-to-download-image-files-in-internal-apps-private-storage-react-native)
 
+- [Android 12 Release, How to target](https://github.com/subrataindia/ReactNative-Examples/blob/main/android-release-details.md)
+
 # React Native Animations
 
 - [react-three-fibre](https://docs.pmnd.rs/react-three-fiber/getting-started/installation#react-native)
