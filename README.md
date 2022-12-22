@@ -38,4 +38,7 @@
 
 - [react-three-fibre](https://docs.pmnd.rs/react-three-fiber/getting-started/installation#react-native)
 
+# Knowledgebase
+
+- [clear cache programetically on android](https://droidbyme.medium.com/clear-cache-in-android-programmatically-26a1405a470b)
 
