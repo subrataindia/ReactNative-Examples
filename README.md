@@ -24,6 +24,7 @@
 - [axios-requests-is-not-working-in-react-native-released-apk-in-android](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/axios-requests-is-not-working-in-react-native-released-apk-in-android.md)
 - [IOS error : Command phasescript execution failed with a nonzero exitcode.](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/iOS-filled-with-nonzero-exitcode.md)
 - [Could not initialize class org.codehaus.groovy.runtime.InvokerHelper](https://github.com/subratsir/ReactNative-Examples/blob/main/errors/err2.md)
+- [expo-modules-core Error](https://github.com/subrataindia/ReactNative-Examples/blob/main/errors/expo-modules-core:buildCMakeDebugarm64-v8a.md)
 
 # Facts
 
